@@ -1,2 +1,18 @@
-# simple-defi-staking-contract
-A minimal, flat-structure Solidity project implementing a time-based staking mechanism for ERC-20 tokens. Users can stake tokens to earn rewards based on a fixed APY. Includes Hardhat setup for easy deployment.
+# Simple DeFi Staking Contract
+
+A professional, lightweight smart contract for staking ERC-20 tokens. This repository follows a flat structure for ease of learning and deployment.
+
+## Features
+- **Stake Tokens:** Users can deposit their ERC-20 tokens.
+- **Earn Rewards:** Rewards are calculated based on the time staked.
+- **Withdraw:** Users can unstake their principal + rewards at any time.
+- **Security:** Built with OpenZeppelin security standards.
+
+## Prerequisites
+- Node.js (v16+)
+- NPM or Yarn
+
+## Setup
+1. Install dependencies:
+   ```bash
+   npm install
